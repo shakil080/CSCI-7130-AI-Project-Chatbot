@@ -1,0 +1,9 @@
+{
+    "development" : {
+        "API_AI_TOKEN" : "",
+        "API_AI_CLIENT_SESSION_ID" : "",
+        "DIALOGFLOW_PROJECT_ID": "",
+        "DIALOGFLOW_CLIENT_EMAIL": "",
+        "DIALOGFLOW_PRIVATE_KEY": ""
+    }
+}
